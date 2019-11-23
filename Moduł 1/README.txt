@@ -4,4 +4,4 @@ on wszystkich zagadnień poruszonych w prezentacji, ponieważ w miarę zagłębi
 
 Przydatne linki:
 https://visualgo.net/en/sorting - symulator działania wielu algorytmów sortowania, w przystępny graficzny sposób prezentuje proces sortowania.
-https://www.youtube.com/watch?v=lyZQPjUT5B4 - film prezentujący działanie algorytmu Bubble sort w formie tańca ludowego :D.
+https://www.youtube.com/watch?v=lyZQPjUT5B4 - film prezentujący działanie algorytmu Bubble sort w formie tańca ludowego :D
