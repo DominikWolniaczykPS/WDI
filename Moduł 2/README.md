@@ -3,5 +3,6 @@ Plik "01-Jak działa komputer (kwantowy).pdf" zawiera drugą część prezentacj
 Plik "Jak działa komputer -plan prezentacji.pdf" zawiera surówkę, plan prezentacji, który przygotowaliśmy na zajęciach.
 
 Przydatne linki:
+
 https://pl.khanacademy.org/computing/computer-science/how-computers-work 
 https://www.ibm.com/quantum-computing/technology/experience/ - Platforma IBM Q Experience udostępniająca ZA DARMO dostęp do mocy obliczeniowej komputerów kwantowych. 
